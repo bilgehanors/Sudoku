@@ -1,2 +1,2 @@
-# Sudoku-
+# Sudoku
 Basic Sudoku game in pygame
